@@ -1,0 +1,30 @@
+_repo: Up-the-Hill-and-Over_10438
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackay, Isabel Ecclestone
+    birthdate: 1875
+    deathdate: 1928
+    gutenberg_agent_id: '1429'
+    url: http://www.gutenberg.org/2009/agents/1429
+    wikipedia: http://www.lib.uwaterloo.ca/discipline/SpecColl/archives/mackay.html
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Drug addicts -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Up the Hill and Over
+url: http://www.gutenberg.org/ebooks/10438
